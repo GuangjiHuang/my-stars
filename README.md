@@ -4,7 +4,7 @@
 
 ## [deep learning](https://github.com/GuangjiHuang/my-stars/blob/master/deeplearning.md)
 
-## [machine learning](https://github.com/GuangjiHuang/my-stars/blob/master/machinelearing.md)
+## [machine learning](https://github.com/GuangjiHuang/my-stars/blob/master/machinelearning.md)
 
 ## [ computer ](https://github.com/GuangjiHuang/my-stars/blob/master/computer.md)
 
